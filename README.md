@@ -1,1 +1,1 @@
-# Vigogne_Finetuning
+# Vigogne Finetuning for a Junia project
